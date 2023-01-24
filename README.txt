@@ -25,6 +25,8 @@ In addition, the code assumes that a local copy of Universal Dependencies v.2.11
 
 The location of the Universal Dependencies base directory is set in the PATHA variable in runnel.py
 
+The Universal Dependencies 2.11 can be downloaded from http://hdl.handle.net/11234/1-4923.
+
 
 2. Contents:
 ------------
